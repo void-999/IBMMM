@@ -1,6 +1,8 @@
 Employee Demographics and Analytics Dashboard
 
+
 Project Overview
+
 This Tableau dashboard provides an in-depth analysis of employee demographics and other workforce-related metrics for a company. It visualizes critical data points such as employee distribution by gender, job roles, marital status, and working experience.
 This tool aims to enable stakeholders to make informed decisions about workforce management and diversity initiatives.
 
@@ -32,6 +34,7 @@ Marital Status by Gender:
 Total Companies Worked For:
 
 - A line chart showing how many companies employees have worked for in the past, segmented by gender.
+
 
 
   Insights
