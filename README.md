@@ -1,7 +1,7 @@
-EMPLOYEE DEMOGRAPHICS AND ANALYTICAL DASHBOARD
+    EMPLOYEE DEMOGRAPHICS AND ANALYTICAL DASHBOARD
 
 
-    Project Overview
+Project Overview
 
 This Tableau dashboard provides an in-depth analysis of employee demographics and other workforce-related metrics for a company. It visualizes critical data points such as employee distribution by gender, job roles, marital status, and working experience.
 This tool aims to enable stakeholders to make informed decisions about workforce management and diversity initiatives.
