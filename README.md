@@ -1,4 +1,4 @@
-Employee Demographics and Analytics Dashboard
+EMPLOYEE DEMOGRAPHICS AND ANALYTICAL DASHBOARD
 
 
 Project Overview
